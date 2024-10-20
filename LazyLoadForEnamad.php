@@ -19,6 +19,10 @@
  */
 
 
+if (!defined("ABSPATH")) {
+    exit;
+}
+
 
 /**
  * Adds a menu item to the admin panel.
