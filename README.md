@@ -39,7 +39,7 @@
 **License**: MIT  
 **License URI**: [MIT License](https://opensource.org/licenses/MIT)  
 **Email**: [hassanali7303@gmail.com](mailto:hassanali7303@gmail.com)  
-**Domain Path**: [Telegram](https://t.me/hassan7303)  
+**Domain Path:** [Domain](https://hsnali.ir)
 
 ## Description
 
