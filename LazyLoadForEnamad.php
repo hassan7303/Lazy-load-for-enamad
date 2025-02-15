@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: LazyLoadForEnamad
+ * Plugin Name: NewLazyLoadForEnamad
  * 
  * Description: Create a LazyLoadForEnamad from an input field.
  * 
