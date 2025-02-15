@@ -27,7 +27,10 @@
 [![GitHub][github-shield]][github-url]
 [![Email][email-shield]][email-url]
 
-# LazyLoadForEnamad Plugin
+# Lazy Load Enamad | WordPress Plugin for Faster Performance
+
+## SEO Keywords
+WordPress Plugin, Enamad Lazy Load, SEO Optimization, Lazy Loading WordPress, Speed Up WordPress, Performance Optimization, WooCommerce, Enamad Badge
 
 ## Overview
 
@@ -43,7 +46,14 @@
 
 ## Description
 
-The **LazyLoadForEnamad** plugin enables users to create a lazy-loaded shortcode for Enamad content. It allows content to be loaded asynchronously, improving page load times and user experience.
+Lazy Load Enamad is a `WordPress plugin` that helps improve `SEO` and page speed by loading Enamad content asynchronously. This plugin reduces page load time and enhances user experience by using `AJAX-based` lazy loading. Ideal for `WooCommerce` and `WordPress` sites that need fast and optimized performance.
+
+## Support This Project 💖 
+If you like this plugin, please consider giving it a ⭐ on GitHub!  
+
+👉 [Give a Star ⭐](https://github.com/hassan7303/Lazy-load-for-enamad/stargazers)  
+
+Your support helps improve and maintain this project!
 
 ## Features
 
