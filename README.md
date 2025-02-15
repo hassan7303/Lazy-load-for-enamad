@@ -5,7 +5,7 @@
 [stars-shield]: https://img.shields.io/github/stars/hassan7303/Lazy-load-for-enamad.svg?style=for-the-badge
 [stars-url]: https://github.com/hassan7303/Lazy-load-for-enamad/stargazers
 [license-shield]: https://img.shields.io/github/license/hassan7303/Lazy-load-for-enamad.svg?style=for-the-badge
-[license-url]: https://github.com/hassan7303/Lazy-load-for-enamad/blob/master/LICENCE
+[license-url]: https://github.com/hassan7303/Lazy-load-for-enamad/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/hassan-ali-askari-280bb530a/
 [telegram-shield]: https://img.shields.io/badge/-Telegram-blue.svg?style=for-the-badge&logo=telegram&colorB=555
