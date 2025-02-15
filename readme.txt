@@ -1,3 +1,6 @@
+== Plugin Name ==
+NewLazyLoadForEnamad
+
 === Lazy Load Enamad ===
 Contributors: hassan7303
 Tags: lazy load, Enamad, SEO, WordPress plugin, speed optimization, WooCommerce, AJAX, performance optimization
