@@ -58,6 +58,9 @@ For issues or feature requests, please visit the GitHub Repository.
 - Telegram: [@hassan7303](https://t.me/hassan7303)
 - Instagram: [@hasan_ali_askari](https://www.instagram.com/hasan_ali_askari)
 
+== License ==
+GPLv2 or later
+
 ### Explanation:
 1. **Plugin Info**: The `README.txt` begins with metadata like the plugin name, description, and other important info.
 2. **Installation**: It provides step-by-step installation instructions.

@@ -11,8 +11,8 @@
  * Author URI: https://t.me/hassan7303
  * Plugin URI: https://github.com/hassan7303
  * 
- * License: MIT
- * License URI: https://opensource.org/licenses/MIT
+ * License: GPLv2 or later 
+ * License URI: https://opensource.org/licenses/GPL-2.0
  * 
  * Email: hassanali7303@gmail.com
  * Domain Path: https://hsnali.ir
