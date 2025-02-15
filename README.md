@@ -5,7 +5,7 @@
 [stars-shield]: https://img.shields.io/github/stars/hassan7303/Lazy-load-for-enamad.svg?style=for-the-badge
 [stars-url]: https://github.com/hassan7303/Lazy-load-for-enamad/stargazers
 [license-shield]: https://img.shields.io/github/license/hassan7303/Lazy-load-for-enamad.svg?style=for-the-badge
-[license-url]: https://github.com/hassan7303/Lazy-load-for-enamad/blob/master/LICENCE.md
+[license-url]: https://github.com/hassan7303/Lazy-load-for-enamad/blob/master/LICENCE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/hassan-ali-askari-280bb530a/
 [telegram-shield]: https://img.shields.io/badge/-Telegram-blue.svg?style=for-the-badge&logo=telegram&colorB=555
@@ -30,7 +30,7 @@
 # Lazy Load Enamad | WordPress Plugin for Faster Performance
 
 ## SEO Keywords
-WordPress Plugin, Enamad Lazy Load, SEO Optimization, Lazy Loading WordPress, Speed Up WordPress, Performance Optimization, WooCommerce, Enamad Badge
+WordPress Plugin, Enamad Lazy Load, SEO Optimization, Lazy Loading WordPress, Speed Up WordPress, Performance Optimization, WooCommerce, Enamad Badge, WordPress Speed Optimization, Lazy Load Plugin
 
 ## Overview
 
@@ -42,7 +42,7 @@ WordPress Plugin, Enamad Lazy Load, SEO Optimization, Lazy Loading WordPress, Sp
 **License**: MIT  
 **License URI**: [MIT License](https://opensource.org/licenses/MIT)  
 **Email**: [hassanali7303@gmail.com](mailto:hassanali7303@gmail.com)  
-**Domain Path:** [Domain](https://hsnali.ir)
+**Website:** [Website](https://hsnali.ir)
 
 ## Description
 
